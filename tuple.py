@@ -1,0 +1,10 @@
+tuple1=("mango","cherry","pappaya","pineapple")
+tuple2=(1,2,3,4)
+print(tuple1)
+print(tuple2)
+print(tuple1[-4])
+print(tuple2[:3])
+print(type(tuple1))
+list={"banana","apple"}
+print(list)
+print(list[1])
